@@ -1,12 +1,10 @@
-Hi 👋 My name is Amaru 
+Hey 👋 My name is Amaru 
 ======================  
 
 Student & Backend Developer 
 --------------------------- 
- * 🌍  I'm based in Hungary
- * 🚀  I'm currently working on [Cider](http://cider.sh)
- * 🧠  I'm learning Vue
- * 🤝  I'm open to collaborating on interesting and dope projects
+ * 🌍  Based in Hungary
+ * 🚀  Currently working on [Cider](http://cider.sh)
 
 ### Skills
 
@@ -19,5 +17,3 @@ Student & Backend Developer
 ### Badges
 
 <a href="http://www.github.com/Amaru8"><img src="https://github-readme-stats.vercel.app/api?username=Amaru8&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amaru8's GitHub stats" /></a>
-
-
